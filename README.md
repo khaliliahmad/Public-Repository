@@ -27,4 +27,4 @@ I believe that the best way to master technology is to document it and share it 
 ## 🚀 Let's Connect
 I'm always open to discussing CI/CD, Infrastructure as Code, or networking. Feel free to explore the scripts, open an issue, or suggest an improvement!
 
-[LinkedIn Profile](https://linkedin.com/in/ahmad-khalili) | [Personal Portfolio](https://khaliliahmad.github.io/)
+[LinkedIn Profile]([https://linkedin.com/in/ahmad-khalili](https://www.linkedin.com/in/ahmad-khalili-28a61a97/)) | [Personal Portfolio](https://khaliliahmad.github.io/)
